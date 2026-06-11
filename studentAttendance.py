@@ -22,3 +22,11 @@ def mark_attendance():
             print("attendance marked successfully")
     else:
         print("student not found")
+
+choice = int(input("enter the number to select options:\n1.add student\n2.mark attendance\n"))
+if choice ==1:
+    add_student()
+elif choice == 2:
+    mark_attendance()
+else:
+    print("invalid choice:select correct option")
