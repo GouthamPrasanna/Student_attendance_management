@@ -1,6 +1,6 @@
 # Student Attendance Management System
 
-A full-stack **Student Attendance Management System** built with **Python**, **JavaScript**, **MongoDB**, and **PyMongo** to simplify attendance tracking and student record management.
+A full-stack **Student Attendance Management System** built with **Python**, **JavaScript**, **MongoDB** with **PyMongo** to simplify attendance tracking and student record management.
 
 ## Features
 
